@@ -1,2 +1,2 @@
 # jwt-login-java-maven
-Simple java maven login using jwt
+Simple java maven login using jwt authentication
